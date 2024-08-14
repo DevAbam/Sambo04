@@ -62,7 +62,7 @@ const index = () => {
                 <FontAwesome name="close" size={18} color="#777a92" />
               </View>
             </View>
-            <Text className=" text-white pb-2 font-poppins">Passwordss</Text>
+            <Text className=" text-white pb-2 font-poppins">Password</Text>
             <View className=" bg-[#39304d] flex-row  items-center justify-between border-2  border-[#777a92] rounded-2xl mb-9">
               <TextInput
                 secureTextEntry={true}
